@@ -8,6 +8,9 @@ import android.widget.TextView;
 
 public class credits extends AppCompatActivity {
     /**
+     * @author		ziv ankri adress: za6200@bs.amalnet.k12.il
+     * @version	    7.3.1
+     * @since       27/9/2023
      * class will give the credit to Albert Levi
      */
     TextView textView;

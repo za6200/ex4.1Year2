@@ -3,6 +3,7 @@ package com.example.ex32year2;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
@@ -14,9 +15,13 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnCreateContextMenuListener{
     /**
+     * @author		ziv ankri address: za6200@bs.amalnet.k12.il
+     * @version	    7.3.1
+     * @since       27/9/2023
      * class will get the first num and the progress and send in to the next
      * activity by intent
      */
+
     Switch switch1;
     EditText firstNum;
     EditText mulOrPlus;

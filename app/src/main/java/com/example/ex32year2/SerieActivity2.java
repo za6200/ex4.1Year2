@@ -20,6 +20,9 @@ import android.widget.Toast;
 
 public class SerieActivity2 extends AppCompatActivity implements AdapterView.OnItemClickListener, View.OnLongClickListener, AdapterView.OnItemLongClickListener, View.OnCreateContextMenuListener {
     /**
+     * @author		ziv ankri za6200@bs.amalnet.k12.il
+     * @version     7.3.1
+     * @since       27/9/2023
      * class will make the serie with the intent givven in last activity and use it to make the serie
      * and make menu to for the position and sum
      */
