@@ -73,7 +73,7 @@ public class SerieActivity2 extends AppCompatActivity implements AdapterView.OnI
         {
             startActivity(Albert);
         }
-        return super.onOptionsItemSelected(item);
+        return true;
 
     }
 
